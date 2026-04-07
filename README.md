@@ -14,6 +14,9 @@
   <img src="screenshots/11.png" width="200"/>
   <img src="screenshots/13.png" width="200"/>
   <img src="screenshots/15.png" width="200"/>
+  <img src="screenshots/18.png" width="200"/>
+  <img src="screenshots/19.png" width="200"/>
+  <img src="screenshots/20.png" width="200"/>
 </p>
 
 ---
