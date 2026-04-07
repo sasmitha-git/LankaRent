@@ -86,7 +86,7 @@ This project was developed as a full-stack Android application with Firebase as 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/LankaRent.git
+   git clone https://github.com/sasmitha-git/LankaRent.git
    cd LankaRent
    ```
 
@@ -142,6 +142,5 @@ implementation("com.github.bumptech.glide:glide:4.16.0")
 
 ## 🙋 Author
 
-**[Sasmitha Kuruppu]**  
-📧 kuruppusasmitha@gmail.com
+**[Sasmitha Kuruppu]** 📧 kuruppusasmitha@gmail.com
 ---
