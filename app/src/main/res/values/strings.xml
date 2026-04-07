@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">LankaRent</string>
+    <string name="app_company">Lincon Globe</string>
+    <string name="luanch_text">from</string>
+
+    //welcome screen
+    <string name="title1">LankaRent</string>
+    <string name="title2">Rent, Manage and Love\nYour Home</string>
+    <string name="title3">easy way to pay your rent and manage your property</string>
+    <string name="landlord">Im a Landlord</string>
+    <string name="tenant">Im a Tenant</string>
+
+    //signup screen
+    <string name="signupText">Sign Up</string>
+    <string name="loginText">Log in</string>
+
+    <string name="title4">Lets Register\nAccount</string>
+    <string name="title5">Hello user, you have\na great journey </string>
+    <string name="user_name">Name</string>
+    <string name="user_mobile">Phone</string>
+    <string name="user_email">Email</string>
+    <string name="user_password">Password</string>
+
+
+    <string name="login_screen">Already have an account?</string>
+
+
+    //login screen
+    <string name="title6">Lets Sign\nyou in</string>
+    <string name="title7">Welcome back!</string>
+    <string name="user_email_ex">ada.lovelace@gmail.com</string>
+    <string name="user_password_ex">Enter your password</string>
+
+
+    //landlord_dashboard
+
+    <string name="home_text">Home</string>
+    <string name="notification_text">Notification</string>
+    <string name="menu_text">Menu</string>
+
+    <string name="total_property_text">Total Properties</string>
+    <string name="total_rent_amount">Total Rent Amount</string>
+    <string name="properties">Property List</string>
+    <string name="add">Add home</string>
+    <string name="share">Share</string>
+    <string name="confirm_button">Confirm</string>
+
+    //fragment_add_property
+    <string name="fragment1_titleEditText">Property Title</string>
+    <string name="fragment1_title">Property Details</string>
+    <string name="fragment1_addressEditText">Address</string>
+    <string name="fragment1_amountEditText">Monthly Rent Amount</string>
+    <string name="fragment1_selectText">Select home location</string>
+    <string name="save_property">Save Details</string>
+    <string name="open_map">Select Location</string>
+    <string name="city">Select City</string>
+    <string name="map">Google Map</string>
+    <string name="question_mark">?</string>
+    <string name="add_images">Images</string>
+
+    //Tenant Dashboard
+    <string name="home_id">Enter Home ID </string>
+    <string name="rental_home">My Rental Home</string>
+    <string name="submit">Submit</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Home Details Fragment
+    <string name="pay_rent">Pay Rent</string>
+    <string name="landlord_not_found">Landlord not found</string>
+    <string name="phone_not_found">Phone number not found</string>
+
+    //Payment Report
+    <string name="Ref_Number">Ref Number</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Payment_Method">Payment Method</string>
+    <string name="Tenant_Name">Tenant Name</string>
+    <string name="Landlord_Name">Landlord Name</string>
+    <string name="Payment_Status">Payment Status</string>
+    <string name="Success">Success</string>
+    <string name="Payment_Success">Payment Success!</string>
+    <string name="Visa_Card">Visa Card</string>
+    <string name="Get_PDF_Receipt">Get PDF Receipt</string>
+    <string name="Go_to_home">Go to home</string>
+    <string name="delete_property">Delete home</string>
+    <string name="update_property">Update home</string>
+
+
+
+    //PayHere Credential
+    <string name="payhere_merchant_id">1228887</string>
+    <string name="payhere_currency">LKR</string>
+    <string name="payhere_notify_url">https://yourserver.com/payhere_notify</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+    <style name="FullScreenDialogTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowFullscreen">false</item>
+    </style>
+</resources>
